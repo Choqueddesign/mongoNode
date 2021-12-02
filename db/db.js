@@ -1,5 +1,5 @@
 const mongoose = require("mongoose")
-const svr = "mongodb+srv://choquedanart:2626710@mongolearn.cxavf.mongodb.net/test"
+const svr = "mongodb+srv://choquedanart:2626710@mongolearn.cxavf.mongodb.net/guitarraNueva"
 
 const connectDB = async()=>{
     try{
